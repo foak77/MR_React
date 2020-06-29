@@ -8,15 +8,15 @@ class App extends Component {
     this.state = {
       monsters: [
         {
-          id:"0",
+          id:"00",
           name:"Frankenstein"
         },
         {
-          id:"1",
+          id:"01",
           name:"Dracula"
         },
         {
-          id:"2",
+          id:"02",
           name:"Zombie"
         }
       ]
